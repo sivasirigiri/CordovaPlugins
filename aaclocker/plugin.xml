@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="com-plugin-aaclocker" version="0.1.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android"><name>aaclocker</name><js-module name="aaclocker" src="www/aaclocker.js"><clobbers target="cordova.plugins.aaclocker" /></js-module><platform name="ios"><config-file parent="/*" target="config.xml"><feature name="aaclocker"><param name="ios-package" value="aaclocker" /></feature></config-file><source-file src="src/ios/aaclocker.m" /></platform></plugin>

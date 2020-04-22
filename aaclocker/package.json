@@ -1,0 +1,25 @@
+{
+  "name": "com-plugin-aaclocker",
+  "version": "0.1.0",
+  "description": "Test AAc locker",
+  "cordova": {
+    "id": "com-plugin-aaclocker",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivasirigiri/CordovaPlugins.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "siva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivasirigiri/CordovaPlugins/issues"
+  },
+  "homepage": "https://github.com/sivasirigiri/CordovaPlugins#readme"
+}
